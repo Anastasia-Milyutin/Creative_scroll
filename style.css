@@ -19,11 +19,11 @@
 
 @font-face {
   font-family: releway-c;
-  src: url("./fonts/raleway-regular.woff2");
+  src: url("fonts/raleway-regular.woff2");
 }
 @font-face {
   font-family: outfit-c;
-  src: url("./fonts/outfit-regular.woff2");
+  src: url("fonts/outfit-regular.woff2");
 }
 h1,
 h2,
